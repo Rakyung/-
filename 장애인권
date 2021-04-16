@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title> html-장애인권위원회 </title>
+  <meta charset="utf-8">
+  <style>
+  a {
+    color:black;
+    text-decoration: none;
+  }
+  .saw{color:gray;}
+  h1 {font-size: 45px; text-align:center;}
+  #active{color:red;}
+  </style>
+</head>
+
+<body>
+  <h1><a href="index.html">김종자의 인턴일기</a></h1>
+  <h2> 장애인권 </a><h2>
+  <ol>
+  <li><a href="1.html">논문 모음</a></li>
+  <li><a href="2.html">비마이너 기사 스크랩</a></li>
+  <li><a href="3.html">4월 20일, 장애인 차별 철폐의 </a></li>
+  </ol>
